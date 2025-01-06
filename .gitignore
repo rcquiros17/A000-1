@@ -1,0 +1,8 @@
+# My First gitignore file
+*.txt
+
+# getting rid of 1 html file
+newbranch.html
+
+# Ignore all temp files
+temp/
